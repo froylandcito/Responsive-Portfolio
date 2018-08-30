@@ -21,6 +21,11 @@
     #nav-links{
         justify-content: center !important;
         margin: auto;
+        padding: 10px !important;
+    }
+
+    p{
+        font-size: 14px !important;
     }
 }
 
