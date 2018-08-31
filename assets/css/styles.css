@@ -203,3 +203,31 @@ p{
     color: white;
     padding: 6px 0;
 }
+
+/*Contact page*/
+.submitButton{
+    color: white;
+    background-color: #4aaaa5;
+    height: 30px;
+    width: 70px;
+    text-align: center;
+    font-size: 14px;
+    margin-top:10px;
+}
+
+.form-group{
+    display: flex;
+    flex-direction: column;
+}
+
+label, input, textarea{
+    margin-bottom: 10px;
+}
+
+label{
+    font-size: 16px;
+}
+
+input{
+    line-height: 2;
+}
